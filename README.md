@@ -1,7 +1,7 @@
-<p align="center"><img src="https://user-images.githubusercontent.com/121749217/227902354-8c38541f-e56a-45bc-b3bc-dad30ad40e2c.gif"></p>
+<p align="center"><img src="https://github.com/Nitishvarma50/kuch_aur/blob/main/Banner.mp4"></p>
 
-<h1 align="center">Hi 👋, I'm SAHITYA SAHU</h1>
-<h3 align="center">A passionate Data/Financial Analyst from India</h3>
+<h1 align="center">Hi 👋, I'm NITISH VARMA</h1>
+<h3 align="center">A passionate Data/Business Analyst from India</h3>
 <!-- <img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahityaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sahityaofficial" /> </p>
 
@@ -11,21 +11,15 @@
   
 <p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank">Follow on Linkedin @SAHITYAOFFICIAL</a> </p>
   
-- 🔭 I’m currently working on [Whatsaap-Business-BOT (GPT)](https://www.sahityaofficial.com/)
+- 🔭 I’m currently working on Bank data analyst
 
-- 🌱 I’m currently learning **R, Azure, SAAS, AWS**
-
-- 👯 I’m looking to collaborate on [My Website](https://www.sahityaofficial.com/)
-
-- 🤝 I’m looking for help with [SAHITYAOFFICIAL.COM](https://www.sahityaofficial.com/)
+- 🌱 I’m currently learning **PowerBi,R, Azure, SAAS, AWS**
 
 - 👨‍💻 All of my projects are available at [https://sahityaofficial.xyz/](https://sahityaofficial.xyz/)
 
-- 📝 I regularly write articles on [https://www.sahityaofficial.com/](https://www.sahityaofficial.com/)
+- 💬 Ask me about **Data visualization, Statistical analysis, Data mining, Excel and more**
 
-- 💬 Ask me about **Data visualization, Statistical analysis, Data mining, Feature engineering and more**
-
-- 📫 How to reach me **contact@sahityaofficial.xyz**
+- 📫 How to reach me **https://www.linkedin.com/in/nitishvarma50/**
 
 - 📄 Know about my experiences [https://sahityaofficial.xyz/assets/images/my_cv.pdf](https://sahityaofficial.xyz/assets/images/my_cv.pdf)
 
