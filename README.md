@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Nitishvarma50/kuch_aur/blob/main/Banner.mp4"></p>
+<p align="center"><img src="https://github.com/Nitishvarma50/kuch_aur/blob/main/ggg%20(3)%20(1)%20(1)%20(1).gif"></p>
 
 <h1 align="center">Hi 👋, I'm NITISH VARMA</h1>
 <h3 align="center">A passionate Data/Business Analyst from India</h3>
