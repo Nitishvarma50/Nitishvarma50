@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm NITISH VARMA</h1>
 <h3 align="center">A passionate Data/Business Analyst from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahityaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sahityaofficial" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sahityaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="Nitish Varma" /> </p>
 
-<p align="left"> <a href="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/mygf.gif" alt="sahityaofficial" /></a> </p> 
+<p align="left"> <a href="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/mygf.gif" alt="Nitish Varma" /></a> </p> 
 
 <p align="center"> <a href="https://www.linkedin.com/in/nitishvarma50/" target="blank"><img width="5%" src="https://user-images.githubusercontent.com/121749217/227907181-54c4dfd6-e96b-4706-9169-8b0b8a590095.png"></a> </p>
   
