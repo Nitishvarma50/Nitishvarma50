@@ -2,26 +2,23 @@
 
 <h1 align="center">Hi 👋, I'm NITISH VARMA</h1>
 <h3 align="center">A passionate Data/Business Analyst from India</h3>
-<!-- <img align="right" alt="Coding" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif”> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahityaofficial&label=Profile%20views&color=0e75b6&style=flat" alt="sahityaofficial" /> </p>
 
 <p align="left"> <a href="https://github.com/sahityaofficial/KACHRA-PATTI/blob/master/mygf.gif" alt="sahityaofficial" /></a> </p> 
 
-<p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank"><img width="5%" src="https://user-images.githubusercontent.com/121749217/227907181-54c4dfd6-e96b-4706-9169-8b0b8a590095.png"></a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/nitishvarma50/" target="blank"><img width="5%" src="https://user-images.githubusercontent.com/121749217/227907181-54c4dfd6-e96b-4706-9169-8b0b8a590095.png"></a> </p>
   
-<p align="center"> <a href="https://www.linkedin.com/in/sahityaofficial" target="blank">Follow on Linkedin @SAHITYAOFFICIAL</a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/nitishvarma50/" target="blank">Follow on Linkedin NITISH VARMA</a> </p>
   
-- 🔭 I’m currently working on Bank data analyst
+- 🔭 I’m currently working on chatgpt analysis
 
-- 🌱 I’m currently learning **PowerBi,R, Azure, SAAS, AWS**
-
-- 👨‍💻 All of my projects are available at [https://sahityaofficial.xyz/](https://sahityaofficial.xyz/)
+- 🌱 I’m currently learning **PowerBi, Machine learning, R, SAAS, AWS**
 
 - 💬 Ask me about **Data visualization, Statistical analysis, Data mining, Excel and more**
 
 - 📫 How to reach me **https://www.linkedin.com/in/nitishvarma50/**
 
-- 📄 Know about my experiences [https://sahityaofficial.xyz/assets/images/my_cv.pdf](https://sahityaofficial.xyz/assets/images/my_cv.pdf)
+- 📄 View my CV (https://github.com/Nitishvarma50/kuch_aur/blob/main/Resume%20Nitish.pdf)
 
 - ⚡ Fun fact **I love trying out new foods from different cultures and experimenting with cooking.**
 
