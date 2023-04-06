@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Nitishvarma50/kuch_aur/blob/main/nitish%20bhai%20ka%20banner%202nd.gif"></p>
+<p align="center"><img src="./nitish bhai ka banner 2nd.gif"></p>
 
 
 <h1 align="center">Hi 👋, I'm NITISH VARMA</h1>
