@@ -1,4 +1,5 @@
-<p align="center"><img src="https://cdn.discordapp.com/attachments/1078990029130579978/1093536576107184260/nitish_bhai_ka_banner_2nd.gif"></p>
+<p align="center"><img src="https://github.com/Nitishvarma50/kuch_aur/blob/main/nitish%20bhai%20ka%20banner%202nd.gif"></p>
+
 
 <h1 align="center">Hi 👋, I'm NITISH VARMA</h1>
 <h3 align="center">A passionate Data/Business Analyst from India</h3>
