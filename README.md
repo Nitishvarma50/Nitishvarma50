@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/nitishvarma50/**
 
-- 📄 View my CV (https://github.com/Nitishvarma50/kuch_aur/blob/main/Nitish_varma_Analyst_cv.pdf)
+- 📄 View my CV (https://github.com/Nitishvarma50/kuch_aur/blob/main/Nitish_Resume_s.pdf)
 
 - ⚡ Fun fact **I love trying out new foods from different cultures and experimenting with cooking.**
 
