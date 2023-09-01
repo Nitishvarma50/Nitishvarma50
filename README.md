@@ -13,7 +13,7 @@
   
 - 🔭 I’m currently working on chatgpt analysis
 
-- 🌱 I’m currently learning **PowerBi, Machine learning, R, SAAS, AWS**
+- 🌱 I’m currently learning **NLP, Machine learning, AWS**
 
 - 💬 Ask me about **Data visualization, Statistical analysis, Data mining, Excel and more**
 
